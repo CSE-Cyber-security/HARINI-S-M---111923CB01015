@@ -1,0 +1,48 @@
+# Week-01-Cybersecurity-Asset-Inventory
+
+## Overview
+
+This week focuses on understanding and creating a basic cybersecurity asset inventory. An asset inventory helps identify, classify, and manage the devices, systems, applications, and other resources present in an organization.
+
+## Objectives
+
+- Identify different types of organizational assets.
+- Understand the importance of asset inventory in cybersecurity.
+- Classify assets based on their type and importance.
+- Identify potential security risks associated with assets.
+- Maintain basic asset information for security monitoring.
+
+## Asset Categories
+
+- Hardware – Computers, laptops, servers, routers, switches, etc.M
+- Software – Operating systems, applications, and security tools.
+- Network Assets – Routers, switches, firewalls, and access points.
+- Data Assets – Files, databases, credentials, and sensitive information.
+- Cloud Assets – Cloud servers, storage, and applications.
+
+## Asset Inventory Information
+
+The inventory can include:
+
+- Asset Name
+- Asset Type
+- IP Address
+- Operating System
+- Owner/User
+- Location
+- Criticality
+- Security Status
+
+## Importance
+
+A cybersecurity asset inventory helps organizations:
+
+- Know what assets they have.
+- Identify unauthorized or unknown devices.
+- Detect security risks.
+- Prioritize critical assets.
+- Improve overall security management.
+
+## Conclusion
+
+Creating an accurate asset inventory is an important first step in cybersecurity. It provides visibility into organizational assets and helps security teams protect critical resources from potential threats.
